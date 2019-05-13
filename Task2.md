@@ -1,8 +1,10 @@
 [如何从零开始学习Excel，并在工作中熟练运用](https://www.zhihu.com/question/36888983/answer/84860536?from=profile_answer_card)
 
 **Task2**
+
 [REF1](https://github.com/mobenlu/Excel/edit/master/DataAnalyst.xlsx)
-[REF1](https://zhuanlan.zhihu.com/p/39292027）
+
+[REF2](https://zhuanlan.zhihu.com/p/39292027）
 
 **任务一**
 - 1.1将列salary最低工资提取出来，假如单元格为“10k以上”、“8k以下”等，最低工资直接为10和8。
