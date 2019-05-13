@@ -4,7 +4,7 @@
 
 [Source Excel](https://github.com/mobenlu/Excel/blob/master/DataAnalyst.xlsx)
 
-[REF1](https://zhuanlan.zhihu.com/p/39292027）
+[REF1](https://zhuanlan.zhihu.com/p/39292027)
 
 **任务一**
 - 1.1将列salary最低工资提取出来，假如单元格为“10k以上”、“8k以下”等，最低工资直接为10和8。
