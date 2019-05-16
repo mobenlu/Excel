@@ -13,6 +13,10 @@
 
 **二**
 - 用match和index函数实现第一题的功能
+- (https://zhuanlan.zhihu.com/p/32308992)
+
+=INDEX(DataAnalyst!C2:C6877,MATCH(A2,DataAnalyst!B2:B6877,0))
+
 
 **三**
 - 用match和index函数查找以下id对应的公司名称，注意id是横向排列的| companyId     | 127200   | 151079   | 22225   | |----|----|----|----|
