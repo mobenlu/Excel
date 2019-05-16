@@ -29,6 +29,7 @@
 - 请根据companyId和postionId两个条件查找对应的工资水平| companyId   | positionId   | salary   | |:----|:----|:----| | 62   | 938038   |    | | 1575   | 1157620   |    | | 157392   | 2574696   |    |
 
 =B17&B18
+
 =INDEX(DataAnalyst1!$P$2:$P$6877,MATCH(C20,DataAnalyst1!$X$2:$X$6877,0))
 
 =LOOKUP(1,0/((DataAnalyst1!$C$2:$C$6877=B17)*(DataAnalyst1!$L$2:$L$6877=B18)),DataAnalyst1!$P$2:$P$6877)
