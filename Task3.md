@@ -21,5 +21,9 @@
 **三**
 - 用match和index函数查找以下id对应的公司名称，注意id是横向排列的| companyId     | 127200   | 151079   | 22225   | |----|----|----|----|
 
+=INDEX(DataAnalyst!B2:B6877,MATCH(B13,DataAnalyst!C2:C6877,0))
+=INDEX(DataAnalyst!B2:B6877,MATCH(C13,DataAnalyst!C2:C6877,0))
+=INDEX(DataAnalyst!B2:B6877,MATCH(D13,DataAnalyst!C2:C6877,0))
+
 **四**
 - 请根据companyId和postionId两个条件查找对应的工资水平| companyId   | positionId   | salary   | |:----|:----|:----| | 62   | 938038   |    | | 1575   | 1157620   |    | | 157392   | 2574696   |    |
